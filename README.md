@@ -1,1 +1,1 @@
-# ADI
+# ADI contains the MATLAB programs described in my 2013 book on the ADI Model Problem (published by Springer).  There is also a pdf file on later work on embedding spectra in elliptic-function regions along with related MATLAB programs embed1, dnbook and vagm. 
